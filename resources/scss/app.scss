@@ -7,3 +7,17 @@ $fa-font-path: "../fonts/webfonts" !default;
 
 @import '~bootstrap/scss/bootstrap';
 
+.card{
+    width: 30%;
+}
+a{
+    text-decoration: none;
+    border-radius: 10px;
+    background-color: green;
+    padding: 6px 16px;
+    color: white;
+}
+a:hover{
+    color: white;
+    opacity: .8;
+}
